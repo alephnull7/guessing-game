@@ -1,19 +1,15 @@
 // Programmer: Gregory Smith
-// Class: CS 145
 // Date: 04/12/2022
-// Assignment: Lab 1 - Guessing Game
-// Reference: Chapter 1-9,
+// Program: Guessing Game
+// Reference: Building Java Programs, 5th Edition: Chapters 1-9,
 // https://docs.oracle.com/javase/8/docs/api/java/lang/String.html,
 // https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html
 //
 // Purpose: The purpose of this program is to prompt a user to play a guessing game which consists
 // of guessing what number was chosen from a random integer range. Play continues until the user
-// wishes to finish, at which point, summary statistics of the games played are displayed. 
+// wishes to finish, at which point, summary statistics of the games played are displayed.
 //
-// For extra credit I had the range of values that the number is chosen from be random as well
-// and created classes for stat tracking and random number generation.
-//
-// No real issues in terms of code implementation.
+// IDE: IntelliJ
 
 import java.util.Scanner;
 import java.util.Random;
